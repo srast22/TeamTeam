@@ -1,6 +1,6 @@
 /**
  * File - script.js
- * Authors - Matthew Schwartz, Andrew Gieraltowski, Alex Ulisky, John McDowell
+ * Authors - Matthew Schwartz, Andrew Gieraltowski, Alex Ulisky, John McDowell, Shaurya Rastogi
  * Last Updated - 20 March 2016 - 17:18:00
  * Summary - This file contains the bulk of the Javascript functions in jQuery form
  */
